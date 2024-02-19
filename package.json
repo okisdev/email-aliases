@@ -1,0 +1,10 @@
+{
+  "name": "email-aliases",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240208.0",
+    "typescript": "^5.3.3",
+    "wrangler": "3.28.1"
+  }
+}
